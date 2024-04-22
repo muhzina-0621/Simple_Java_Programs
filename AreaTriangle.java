@@ -1,3 +1,5 @@
+/*this code gives an example of interface working in Java */
+
 import java.io.*;
 interface Shape {
     void disp();
